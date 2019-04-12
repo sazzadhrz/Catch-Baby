@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Child App</string>
+    <string name="google_maps_API_key">AIzaSyCI8zACkPdf3XdINifhei0jltOGbrjD8qI</string>
+    <string name="title_activity_parent">ParentActivity</string>
+</resources>

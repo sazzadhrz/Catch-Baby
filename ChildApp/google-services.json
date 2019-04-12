@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "144816765275",
+    "firebase_url": "https://child-app-1542657891742.firebaseio.com",
+    "project_id": "child-app-1542657891742",
+    "storage_bucket": "child-app-1542657891742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144816765275:android:a9eff3e81ebbdc05",
+        "android_client_info": {
+          "package_name": "com.sazzadhrz.childapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144816765275-1dj6169e3v3v6orp9fgboukfsobj25q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrrNtBNMglgL4h_WVgQBEySf_ZjsbEOg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
